@@ -8,7 +8,7 @@ import random
 #Provide your IBM Watson Device Credentials
 organization = "wy3zfr"
 deviceType = "Device1"
-deviceId = "Device"
+deviceId = "56789"
 authMethod = "token"
 authToken = "987654321"
 
